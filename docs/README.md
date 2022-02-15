@@ -1,4 +1,4 @@
-# golib/cmdio ライブラリ
+# l4go/cmdio ライブラリ
 
 コマンドの標準入出力から、[io.ReadWriteCloser](https://golang.org/pkg/io/#ReadWriteCloser)互換のI/Oを提供するライブラリです。
 入出力をまとめて１つのI/Oとして管理できるようになります。
