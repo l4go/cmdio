@@ -106,11 +106,11 @@ type StdPipe struct {
 }
 
 func StdDup() (*StdPipe, error) {
-	in, err := syscall.Dup(syscall.Stdin)
+	in, err := sys_dup(syscall.Stdin)
 	if err != nil {
 		return nil, err
 	}
-	out, err := syscall.Dup(syscall.Stdout)
+	out, err := sys_dup(syscall.Stdout)
 	if err != nil {
 		return nil, err
 	}
