@@ -1,0 +1,5 @@
+github.com/l4go/task v1.20220225.0 h1:CpAsxaMbcqtikq4qjUposmCDLBACXXLu26J6ocOKzKs=
+github.com/l4go/task v1.20220225.0/go.mod h1:5vuq2+n3+gYolXbT3AgPaHoCzLDnOLp4NrvWWB1uPV4=
+github.com/l4go/timer v1.20220131.0/go.mod h1:3WVqLwRVS1odYYP2UqSs8k8VYAbIRlNEGE02Yq1I2Pw=
+golang.org/x/sys v0.22.0 h1:RI27ohtqKCnwULzJLqkv897zojh5/DwS/ENaMzUOaWI=
+golang.org/x/sys v0.22.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
